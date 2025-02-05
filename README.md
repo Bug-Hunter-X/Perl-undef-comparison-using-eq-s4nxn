@@ -1,0 +1,1 @@
+This repository contains a Perl script that highlights a subtle issue when comparing variables to undef. The script demonstrates the problem and shows a proper way to check for undef values using defined().
